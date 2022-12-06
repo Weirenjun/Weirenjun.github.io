@@ -1,2 +1,2 @@
 # Weirenjun.github.io
-This is DG
+Hi,I'm Weirenjun
